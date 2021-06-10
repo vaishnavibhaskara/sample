@@ -1,0 +1,85 @@
+body{
+    background-color: cadetblue;
+}
+video {
+    width :800px;
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 370px;
+    border: black;
+  }
+img {
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+  }
+p.username {
+    font-weight: bold;
+  }
+
+audio{
+  margin-left: 630px;
+}
+
+#top{
+  text-align: center;
+  color:darkslategray;
+}
+
+.joke{
+  border: 10px solid rgb(158, 29, 83);
+  margin: 40px;
+  background-color: darkgray;
+  font-size: 25px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.joke-ii{
+  padding: 15px;
+}
+
+form{
+    margin-top: 30px;   
+  }
+
+.box-model{
+    border: 10px solid darkolivegreen;
+    margin: 50px;
+}
+
+.content{
+    background-color: beige ;
+    color: black;
+    padding: 10px;
+    font-size: 17px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+    font-style: italic;
+}
+
+button{
+  background-color: darksalmon;
+  border: 3px solid brown;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+button:hover {
+  background-color: crimson ;
+}
+
+button:focus{
+  background-color:darkolivegreen;
+}
+
+button:disabled{
+  cursor:not-allowed;
+}
+
+#wefe{
+  font-family: Tahoma, sans-serif;
+  color: dimgrey;
+}
+
